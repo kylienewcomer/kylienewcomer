@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi!! I'm Kylie Newcomer🌊
 
+
+I'm a Master's of Environmental Data Science student at the Bren School of Environmental Science & Management at University of California, Santa Barbara.
 <!--
 **kylienewcomer/kylienewcomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
