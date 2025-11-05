@@ -2,6 +2,9 @@
 
 
 I'm a Master's of Environmental Data Science student at the Bren School of Environmental Science & Management at University of California, Santa Barbara.
+
+<img width="2000" height="2000" alt="octocat-1762370991891" src="https://github.com/user-attachments/assets/eba66fdf-84c2-44fe-a93a-a5cc65496037" />
+
 <!--
 **kylienewcomer/kylienewcomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
